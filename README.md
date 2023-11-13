@@ -19,3 +19,6 @@ A simple example to learn session expressJS
 - All the JS code are implemented from Code Realm - Reference: www.youtube.com/watch?v=OH6Z0dJ_Huk
 - Style and html build by LuongQuiTuan - Reference: github.com/LuongQuiTuan
 - Me, implement and organize things.
+
+## Incoming update
+Try to apply EJS template to this project.

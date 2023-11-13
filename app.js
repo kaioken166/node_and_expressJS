@@ -1,8 +1,7 @@
 const express = require('express')
 const session = require('express-session')
 const bodyParser = require('body-parser')
-// const path = require('path')
-// const bootstrap = require('bootstrap')
+
 
 const TWO_HOURS = 1000 * 60 * 60 * 2
 
